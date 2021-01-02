@@ -38,3 +38,7 @@ Informações referente ao resumo do Code Education - para meu aprendizado - div
 ### Linkar repositório local com remoto 
 
 - git remote add origin https://github.com/nome_usuário/nome_repositorio.git
+
+### Enviar repositório local para remoto
+
+- git push -u origin master
