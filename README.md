@@ -56,3 +56,27 @@ Informações referente ao resumo do Code Education - para meu aprendizado - div
 ##### Trocar para uma branch
 
 - git switch nome_local
+
+### Unificando (merge) Branch e revendo conflitos
+
+- git fetch origin
+
+- git checkout -b branch_local origin/branch_remota
+
+- git merge master
+
+- Obs.: se houver conflito, corrigir, e depois seguir com comandos:
+
+- git add  nome_arquivo
+
+- git commit -m "Resolvendo conflito"
+
+- git checkout master
+
+- git merge branch_nova
+
+- git push origin master
+
+- git log
+
+
