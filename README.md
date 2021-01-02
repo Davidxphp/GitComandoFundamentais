@@ -46,3 +46,13 @@ Informações referente ao resumo do Code Education - para meu aprendizado - div
 ### Enviar repositório remoto para local
 
 - git pull origin master
+
+### Trabalhando com outras Branch (Ramificação) além da Master
+
+##### Criar uma branch
+
+- git branch nome_local
+
+##### Trocar para uma branch
+
+- git switch nome_local
