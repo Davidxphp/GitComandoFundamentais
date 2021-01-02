@@ -79,4 +79,14 @@ Informações referente ao resumo do Code Education - para meu aprendizado - div
 
 - git log
 
+### Clone de repositótio 
+
+##### Entrar no link do git e clicar em Clone or Download, selecionar clonar e copiar o link
+
+- git clone "colar aqui o link copiar no git remoto"
+- será criado uma pasta com nome do repositório
+- cd pasta
+
+
+
 
