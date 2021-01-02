@@ -42,3 +42,7 @@ Informações referente ao resumo do Code Education - para meu aprendizado - div
 ### Enviar repositório local para remoto
 
 - git push -u origin master
+
+### Enviar repositório remoto para local
+
+- git pull origin master
